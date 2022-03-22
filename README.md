@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumayaAMghar&theme=tokyonight)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumayaAMghar&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumayaAMghar&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumayaAMghar&theme=tokyonight)
 - 🌱 I’m currently learning at YouCode SAFI
