@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=SoumayaAMghar.SoumayaAMghar)
 [![Github](https://img.shields.io/github/followers/SoumayaAMghar?label=Follow&style=social)](https://github.com/SoumayaAMghar)
 
-<br/>
 
 ## 🧰 Languages and Tools:
 <!-- <p align="center">
