@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Soumaya Amghar
-🌱 I’m currently learning at YouCode SAFI
+- 🔭 I’m a student at YouCode Safi
+🌱 I’m currently learning Web developpement
 
 
 <!--
