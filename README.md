@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumayaAMghar&theme=radical)
-- 🌱 I’m currently learning YouCode
+- 🌱 I’m currently learning at YouCode SAFI
