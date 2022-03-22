@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 
  -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumayaAMghar&theme=radical)         -->
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumayaAMghar&theme=default_repocard)
 - 🌱 I’m currently learning at YouCode SAFI
